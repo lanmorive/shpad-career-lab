@@ -1,3 +1,17 @@
+"""This module is a Streamlit application for data visualization and analysis.
+
+It utilizes various libraries such as Pandas, Plotly, and Folium to provide
+interactive visualizations and insights based on user input and data.
+
+Key features include:
+- Data loading and preprocessing
+- Visualization of data trends and patterns
+- Interactive maps and charts
+
+Usage:
+Run this script using Streamlit to launch the web application.
+"""
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
